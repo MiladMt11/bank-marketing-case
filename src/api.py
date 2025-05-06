@@ -26,7 +26,6 @@ class CustomerData(BaseModel):
     contact_mode: Literal["telephone", "cellular"]
     month: str
     week_day: str
-    last_contact_duration: int
     N_last_days: int
     nb_previous_contact: int
     previous_outcome: str
