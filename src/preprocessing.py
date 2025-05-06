@@ -23,7 +23,7 @@ def engineer_features(df):
     
     # return with redundant features dropped.
     # Note!: dropping last_contact_duration, since it is a leaky feature
-    df = df.drop(columns=['has_credit', 'last_contact_duration'])
+    df = df.drop(columns=[col for col in ['has_credit', 'last_contact_duration'] if col in df.columns])
     return df
 
 
