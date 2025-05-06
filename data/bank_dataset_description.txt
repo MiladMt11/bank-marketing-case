@@ -1,0 +1,30 @@
+Bank Marketing Dataset Description
+
+Goal: The binary classification goal is to predict if the customer will subscribe to a specific financial product (variable '21 target').
+
+# Input variables
+
+1  age                       age of the customer
+2  occupation                type of job
+3  marital_status            marital status
+4  education                 type of education
+5  has_credit                customer has credit by default
+6  housing_loan              customer has housing loan
+7  personal_loan             customer has personal loan
+8  contact_mode              contact communication mode
+9  month                     last contact month of year
+10 week_day                  last contact day of the week
+11 last_contact_duration     last contact duration, in seconds
+12 contacts_per_campaign     number of contacts performed during this campaign and for this customer
+13 N_last_days               number of days elapsed after the customer was last contacted for previous campaign
+14 nb_previous_contact       number of contacts performed before this campaign and for this customer
+15 previous_outcome          outcome of the previous marketing campaign
+16 emp_var_rate              employment variation rate (quarterly indicator)
+17 cons_price_index          consumer price index (monthly indicator)
+18 cons_conf_index           consumer confidence index (monthly indicator)
+19 euri_3_month              3 month rate (daily indicator)
+20 nb_employees              number of employees (quaterly indicator)
+
+# Output variable
+
+21 target                    has the client subscribed to a specific financial product

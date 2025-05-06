@@ -1,0 +1,6 @@
+artifact_location: file:///Users/milad/Documents/Interview%20Cases/2021ai/bank-marketing-case/src/mlruns/554995568452355096
+creation_time: 1746197817148
+experiment_id: '554995568452355096'
+last_update_time: 1746197817148
+lifecycle_stage: active
+name: xgb_main_pipeline

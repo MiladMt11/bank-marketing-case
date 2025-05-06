@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/milad/Documents/Interview%20Cases/2021ai/bank-marketing-case/src/mlruns/554995568452355096/9ec0eea41b784980819b008b8c42ca95/artifacts
+end_time: 1746197817221
+entry_point_name: ''
+experiment_id: '554995568452355096'
+lifecycle_stage: active
+run_id: 9ec0eea41b784980819b008b8c42ca95
+run_name: xgb_full_pipeline
+run_uuid: 9ec0eea41b784980819b008b8c42ca95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746197817210
+status: 4
+tags: []
+user_id: milad
