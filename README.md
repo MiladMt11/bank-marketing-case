@@ -3,7 +3,7 @@
 This project addresses a real-world case from a major bank aiming to improve the efficiency of its marketing campaigns. The goal is to predict whether a customer will subscribe to a term deposit based on their demographic, financial, and campaign interaction data.
 
 ---
-## 📂 Project Structure
+## Project Structure
 ```
 bank-marketing-case/
 ├── data/
