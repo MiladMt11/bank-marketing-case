@@ -117,7 +117,7 @@ def main(model_name):
             pipeline,
             param_distributions=param_grid,
             n_iter=20,
-            scoring="average_precision",  # AUC-PR
+            scoring="average_precision",
             cv=5,
             verbose=2,
             n_jobs=-1,
