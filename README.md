@@ -37,14 +37,15 @@ bank-marketing-case/
 pip install -r requirements.txt
 ```
 
-### 2. Train a model
-Run one of the following commands from the project root:
+### 2. Train a model:
+From the project root, first navigate to the `src` folder, then run one of the following commands:
+
 ```bash
-python src/main.py --model logreg
+python main.py --model logreg
 ```
 or
 ```bash
-python src/main.py --model xgb
+python main.py --model xgb
 ```
 
 This will:
